@@ -95,9 +95,3 @@ npm run preview
 ├── vite.config.ts   # Vite configuration
 └── README.md        # Project documentation
 ```
-
-## Contributing
-Feel free to fork, submit issues, or open pull requests to improve this project.
-
----
-🚀 **Happy Coding!**
